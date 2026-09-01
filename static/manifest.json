@@ -1,9 +1,0 @@
-{
-  "name": "台美股自動看盤",
-  "short_name": "台美股看盤",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#0e1117",
-  "theme_color": "#0e1117",
-  "icons": []
-}

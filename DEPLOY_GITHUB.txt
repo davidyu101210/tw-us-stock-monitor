@@ -1,0 +1,12 @@
+建議直接建立全新的 GitHub repo，例如 stock-decision-app。
+
+1. 解壓縮這個 ZIP。
+2. 將整個資料夾內容上傳到新 repo 根目錄。
+3. Streamlit Cloud：
+   Repository = 你的帳號/stock-decision-app
+   Branch = main
+   Main file path = app.py
+4. Deploy。
+5. iPhone Safari 開網址 → 分享 → 加入主畫面。
+
+不要把舊專案檔案混進來。
